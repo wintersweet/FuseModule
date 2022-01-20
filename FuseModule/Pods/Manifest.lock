@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - CTHandyCategories (23):
+    - HandyFrame
+  - CTMediaKit (0.1.0):
+    - CTMediator
+  - CTMediator (15):
+    - CTHandyCategories
+  - FuseGroupsKits (1.0.2):
+    - CTMediator
+  - HandyFrame (1.2.0)
+  - MyCategoryKit (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CTMediaKit
+  - FuseGroupsKits (~> 1.0.2)
+  - MyCategoryKit (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - CTHandyCategories
+    - CTMediator
+    - HandyFrame
+  https://github.com/wintersweet/MySpecs.git:
+    - CTMediaKit
+    - FuseGroupsKits
+    - MyCategoryKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  CTHandyCategories: 10f812a5f545a9d8da34112e068a6e9b469c6782
+  CTMediaKit: 3322e9cf3eacede045ffabbed465e970b31f18a7
+  CTMediator: d9122c972b29559d5d733a205e9b0a18c933b2ad
+  FuseGroupsKits: 938cbbfb21db816b3dbf10cd538705de1e86e6d8
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
+  MyCategoryKit: b4d5c4e7967ae7d55826a872a53d2d48b6641398
+
+PODFILE CHECKSUM: 3bf692d43d1bd9fcb14d39e495f1bd098521856d
+
+COCOAPODS: 1.11.2

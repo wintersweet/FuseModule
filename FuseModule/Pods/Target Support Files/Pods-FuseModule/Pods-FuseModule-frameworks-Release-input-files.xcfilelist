@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-FuseModule/Pods-FuseModule-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/CTHandyCategories/CTHandyCategories.framework
+${BUILT_PRODUCTS_DIR}/CTMediaKit/CTMediaKit.framework
+${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework
+${BUILT_PRODUCTS_DIR}/FuseGroupsKits/FuseGroupsKits.framework
+${BUILT_PRODUCTS_DIR}/HandyFrame/HandyFrame.framework
+${BUILT_PRODUCTS_DIR}/MyCategoryKit/MyCategoryKit.framework

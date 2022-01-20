@@ -1,0 +1,6 @@
+framework module Pods_FuseModule {
+  umbrella header "Pods-FuseModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

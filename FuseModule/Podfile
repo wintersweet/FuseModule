@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+source 'https://github.com/wintersweet/MySpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'FuseModule' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for FuseModule
+  pod 'MyCategoryKit','~> 1.0.0'
+  
+  
+  pod 'FuseGroupsKits','~> 1.0.2'
+
+  pod 'CTMediaKit'
+
+  pod 'AFNetworking'
+
+
+end
